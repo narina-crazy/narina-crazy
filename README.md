@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente eu trabalho com marketing, mas quero migrar para front-end e programação.
 - 🌱 Atualmente estou estudando html, css e bootstrap.
+##
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
@@ -14,3 +15,8 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narina-crazy&show_icons=true&theme=tokyonight)
+
+
+
+
+
