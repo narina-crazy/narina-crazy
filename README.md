@@ -15,7 +15,7 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narina-crazy&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narina-crazy&layout=compact&langs_count=16&theme=dracula"/>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narina-crazy&layout=compact)](https://github.com/narina-crazy/github-readme-stats)
 
 
 
