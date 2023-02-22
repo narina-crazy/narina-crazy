@@ -3,14 +3,26 @@
 - 🔭 Atualmente eu trabalho com marketing, mas quero migrar para front-end e programação.
 - 🌱 Atualmente estou estudando html, css e bootstrap.
 ##
-
+<h3>Linguagens:</h3>
 <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"></a>
+<h3>Edição:</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"></a>
+
 ##
- 
+ <h3>Redes Sociais:</h3>
  <a href="https://www.linkedin.com/in/edy-oliveira/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
- <a href="https://linklist.bio/narina_crazy" rel="nofollow"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" data-canonical-src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a> 
+ <a href="https://linklist.bio/narina_crazy" rel="nofollow"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" data-canonical-src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
+ 
  
  ##
  <div align="center">  
